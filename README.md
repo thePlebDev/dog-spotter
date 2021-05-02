@@ -1,3 +1,18 @@
+# DOG SPOTTER
+### Everyone could use some more dog photos in their life. A web based game to make your day a little brightter
+
+![Guppy project screen](https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2249&q=80)
+
+DOG SPOTTER is a free-to-use desktop application designed to make it life a little bit eaiser. We provide a clean UI created in react and a powerful backend built with express
+
+### Current Status
+We are currently in the infancy stage of development and any help with the aplication is very much apreciated.
+
+### Contributing
+
+DOG SPOTTER is trying to build an active community of contributors and collaborators that enjoy working together to continuously improve the application's form and function.  By participating in this project, you agree to abide by its terms. If you would like to get involved, have a look at our [Contributing Guide](CONTRIBUTING.md)!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
