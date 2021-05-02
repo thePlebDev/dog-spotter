@@ -3,6 +3,11 @@
 
 ![Guppy project screen](https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2249&q=80)
 
+DOG SPOTTER is a free-to-use desktop application designed to make it life a little bit eaiser. We provide a clean UI created in react and a powerful backend built with express
+
+### Current Status
+We are currently in the infancy stage of development and any help with the aplication is very much apreciated.
+
 
 # Getting Started with Create React App
 
