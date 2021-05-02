@@ -1,3 +1,9 @@
+# DOG SPOTTER
+### Everyone could use some more dog photos in their life. A web based game to make your day a little brightter
+
+![Guppy project screen](https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2249&q=80)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
