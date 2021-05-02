@@ -8,6 +8,10 @@ DOG SPOTTER is a free-to-use desktop application designed to make it life a litt
 ### Current Status
 We are currently in the infancy stage of development and any help with the aplication is very much apreciated.
 
+### Contributing
+
+DOG SPOTTER is trying to build an active community of contributors and collaborators that enjoy working together to continuously improve the application's form and function.  By participating in this project, you agree to abide by its terms. If you would like to get involved, have a look at our [Contributing Guide](CONTRIBUTING.md)!
+
 
 # Getting Started with Create React App
 
